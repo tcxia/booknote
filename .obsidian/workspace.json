@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西汉历史有感.md",
+                "file": "西汉王朝有感.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "西汉历史有感"
+              "title": "西汉王朝有感"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1002f81cb906540",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西汉历史有感.md",
+                "file": "西汉王朝有感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "西汉历史有感 的反向链接列表"
+              "title": "西汉王朝有感 的反向链接列表"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西汉历史有感.md",
+                "file": "西汉王朝有感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "西汉历史有感 的出链列表"
+              "title": "西汉王朝有感 的出链列表"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "西汉历史有感.md"
+                "file": "西汉王朝有感.md"
               },
               "icon": "lucide-list",
-              "title": "西汉历史有感 的大纲"
+              "title": "西汉王朝有感 的大纲"
             }
           },
           {
@@ -154,13 +155,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6b3cdc953d5a370c",
+            "type": "leaf",
+            "state": {
+              "type": "chinese-calendar-view",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "日历"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da718346c34d6e13",
+  "active": "0dfbfd8e66accd84",
   "lastOpenFiles": [
-    "西汉历史有感.md"
+    "个人简历.pdf",
+    "西汉王朝有感.md",
+    "个人简历.md"
   ]
 }
